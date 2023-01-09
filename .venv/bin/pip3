@@ -1,4 +1,4 @@
-#!/home/dylan/CodeFellows/projects/courses/401/labs/capitol-finder/.venv/bin/python3.10
+#!/home/dylan/CodeFellows/projects/courses/401/labs/serverless/.venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
